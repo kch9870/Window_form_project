@@ -1,0 +1,64 @@
+﻿<Page x:Class="TeamProject.PlaceProtect"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TeamProject"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="800"
+      Title="PlaceProtect">
+
+    <Grid Name="placepractice" Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="643*"/>
+            <ColumnDefinition Width="157*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="background.png"/>
+        </Grid.Background>
+        <Rectangle HorizontalAlignment="Left" Height="458" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="730" Margin="31,68,0,0" Grid.ColumnSpan="2">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <ImageSource>placepracticeback.png</ImageSource>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label x:Name="Progresstxt" Content="진행도 : 0%" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="208,192,0,0" Height="24" Foreground="#FFFEFF05" FontSize="10"/>
+        <TextBox x:Name="Typingtxt" HorizontalAlignment="Left" Height="79" TextWrapping="Wrap" VerticalAlignment="Top" Width="130" Margin="44,183,0,0" FontSize="48" TextAlignment="Center" KeyDown="Typingtxt_KeyDown" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Label x:Name ="Typotxt" Content="오타수 : 0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="208,210,0,0" Height="21" Foreground="#FFFEFF05" FontSize="10"/>
+        <Label x:Name ="Accuracytxt" Content="정확도 : 0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="208,226,0,0" Height="22" Foreground="#FFFEFF05" FontSize="10"/>
+        <ProgressBar x:Name="ProgressPB" HorizontalAlignment="Left" Height="12" VerticalAlignment="Top" Width="282" Margin="281,198,0,0" Foreground="#FFFFED7C" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <ProgressBar x:Name="typoPB" HorizontalAlignment="Left" Height="11" VerticalAlignment="Top" Width="282" Margin="281,216,0,0" Foreground="#FFFFED7C" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <ProgressBar x:Name="accuracyPB" HorizontalAlignment="Left" Height="12" VerticalAlignment="Top" Width="282" Margin="281,233,0,0" Foreground="#FFFFED7C" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Rectangle HorizontalAlignment="Left" Height="42" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="245" Margin="274,13,0,0">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <ImageSource>title2.png</ImageSource>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="239" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="702" Margin="44,275,0,0" Grid.ColumnSpan="2">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <ImageSource>keybord.png</ImageSource>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button x:Name="HomeBT" Style="{StaticResource MyButton}" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="45" Margin="616,10,0,0" Height="45" BorderBrush="{x:Null}" Foreground="{x:Null}" Grid.ColumnSpan="2" Click="HomeBT_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="home.png"/>
+            </Button.Background>
+        </Button>
+        <Label Content="자 리 연 습" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="347,21,0,0" FontWeight="Bold" FontSize="16" Height="42"/>
+        <Label Name="Wordtxt" Content="ㅏ" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="368,84,0,0" FontSize="48"/>
+        <Label Name="Idtxt" Content="Id" Grid.Column="1" HorizontalAlignment="Left" Height="29" Margin="25,84,0,0" VerticalAlignment="Top" Width="33" Foreground="#FFFEFF05"/>
+
+
+    </Grid>
+</Page>

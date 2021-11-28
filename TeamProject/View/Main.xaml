@@ -1,0 +1,154 @@
+﻿<Page x:Class="TeamProject.Main"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TeamProject"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="800"
+      Title="Main">
+
+
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="None" ImageSource="background.png" AlignmentY="Top" AlignmentX="Center"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="337*"/>
+            <ColumnDefinition Width="63*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="한 컴 타 자 연 습" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="198,17,0,0" FontSize="72" FontFamily="HYShortSamul" Foreground="White" OpacityMask="White" Background="{x:Null}" FontWeight="Medium">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+        <Rectangle Fill="#FF013A37" HorizontalAlignment="Left" Height="28" Stroke="Black" VerticalAlignment="Top" Width="607" RadiusX="7" RadiusY="7" Margin="90,115,0,0" Grid.ColumnSpan="2"/>
+        <Label Content="자리 연습 단계 : 1, 낱말 연습 단계 : 1, 자판 종류 : 두벌식 표준" VerticalAlignment="Top" Margin="204,115,0,0" FontFamily="HYGothic" Background="#FF013A37" RenderTransformOrigin="0.5,0.5" Foreground="White" Height="28" FontSize="16"/>
+        <Rectangle HorizontalAlignment="Left" Height="352" RadiusY="7" RadiusX="7" VerticalAlignment="Top" Width="330" Margin="401,176,0,0" Grid.ColumnSpan="2" StrokeThickness="1.5" Stroke="Black">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="K-001.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="30" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="260" Margin="117,203,0,0">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <BitmapImage UriSource="C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\View\title.png"/>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button x:Name="PlacePracticeBT" Style="{StaticResource MyButton}" Content="자 리 연 습" HorizontalAlignment="Left" VerticalAlignment="Top" Width="187" Margin="133,176,0,0" Height="43" FontSize="32" BorderBrush="{x:Null}" Foreground="White" FontWeight="Bold" Click="PlacePracticeBT_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Rectangle HorizontalAlignment="Left" Height="65" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="65
+                   
+                   " Margin="63,163,0,0">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <ImageSource>placepractice.png</ImageSource>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="30" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="260" Margin="117,273,0,0">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <BitmapImage UriSource="C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\View\title.png"/>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="65" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="65" Margin="63,233,0,0">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <ImageSource>logscript.png</ImageSource>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="30" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="260" Margin="117,348,0,0">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <BitmapImage UriSource="C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\View\title.png"/>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="65" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="65" Margin="63,308,0,0">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <ImageSource>game.png</ImageSource>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="30" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="260" Margin="117,423,0,0">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <BitmapImage UriSource="C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\View\title.png"/>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="65" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="65" Margin="63,383,0,0">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <ImageSource>setting.png</ImageSource>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="30" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="260" Margin="117,498,0,0">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <BitmapImage UriSource="C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\View\title.png"/>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="65" RadiusY="7" RadiusX="7" StrokeThickness="1.5" VerticalAlignment="Top" Width="65" Margin="63,458,0,0">
+            <Rectangle.Fill>
+                <ImageBrush>
+                    <ImageBrush.ImageSource>
+                        <ImageSource>end.png</ImageSource>
+                    </ImageBrush.ImageSource>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button x:Name="LongScriptPracitceBT" Style="{StaticResource MyButton}" Content="긴 글 연 습" HorizontalAlignment="Left" VerticalAlignment="Top" Width="187" Margin="133,238,0,0" Height="60" FontSize="32" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" FontWeight="Bold" Click="LongScriptPracitceBT_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="GameBT" Content="놀        이" Style="{StaticResource MyButton}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="187" Margin="133,326,0,0" Height="47" FontSize="32" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" FontWeight="Bold" Click="GameBT_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="SettingBT" Content="환 경 설 정" Style="{StaticResource MyButton}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="187" Margin="133,383,0,0" Height="63" FontSize="32" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" FontWeight="Bold" Click="SettingBT_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="EndBT" Content=" 끝" Style="{StaticResource MyButton}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="187" Margin="133,479,0,0" Height="44" FontSize="32" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="White" RenderTransformOrigin="-0.939,1.036" FontWeight="Bold" Click="EndBT_Click" HorizontalContentAlignment="Left">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Name="Idtxt" Content="Idtxt" HorizontalAlignment="Left" Height="28" Margin="117,115,0,0" VerticalAlignment="Top" Width="75" FontFamily="HYGothic" Background="#FF013A37" Foreground="Yellow" FontSize="16"/>
+
+    </Grid>
+</Page>
+

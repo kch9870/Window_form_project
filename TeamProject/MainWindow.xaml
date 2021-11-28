@@ -1,0 +1,21 @@
+﻿<Window x:Class="TeamProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TeamProject"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" Title="MainWindow" WindowStyle="None" AllowsTransparency="True" Height="620" Width="800">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="778*"/>
+            <ColumnDefinition Width="15*"/>
+        </Grid.ColumnDefinitions>
+        <Frame Source="/View/Setting.xaml" Grid.ColumnSpan="2" Margin="0,0,-0.4,0.4">
+            <Frame.Background>
+                <ImageBrush ImageSource="/View/background.png"/>
+            </Frame.Background>
+        </Frame>
+    </Grid>
+</Window>

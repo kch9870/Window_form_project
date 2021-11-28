@@ -1,0 +1,80 @@
+C:\Users\lg\source\repos\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\lg\source\repos\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\lg\source\repos\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.csprojAssemblyReference.cache
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\MainWindow.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\App.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject_MarkupCompile.cache
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject_MarkupCompile.lref
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\MainWindow.baml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.g.resources
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\lg\source\repos\TeamProject\TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\lg\source\repos\TeamProject\TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\lg\source\repos\TeamProject\TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Edit.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Game.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\LongScriptPractice.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Main.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Register.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Setting.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\WordPractice.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Edit.baml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Game.baml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\LongScriptPractice.baml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Main.baml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Register.baml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Setting.baml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\WordPractice.baml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\PlacePractice.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\PlacePractice.baml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\LongScriptEnglish.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\LongScriptEnglish.baml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\App.baml
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Menu.g.cs
+C:\Users\lg\source\repos\TeamProject\TeamProject\obj\Debug\View\Menu.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\TeamProject.csprojAssemblyReference.cache
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Edit.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Game.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\LongScriptEnglish.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\LongScriptPractice.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Main.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\MainWindow.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Menu.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\PlacePractice.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Register.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Setting.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\WordPractice.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\App.g.cs
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\TeamProject_MarkupCompile.cache
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\TeamProject_MarkupCompile.lref
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\App.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Edit.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Game.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\LongScriptEnglish.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\LongScriptPractice.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Main.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\MainWindow.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Menu.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\PlacePractice.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Register.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\Setting.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\View\WordPractice.baml
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\TeamProject.g.resources
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\kch98\Desktop\Unv\TeamProject (1)\TeamProject\obj\Debug\TeamProject.pdb
